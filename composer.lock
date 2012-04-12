@@ -1,5 +1,5 @@
 {
-    "hash": "943bef5efe34b3bc0dad83a7802107e0",
+    "hash": "8e8be3affc41d89f90da3871a9dd12f0",
     "packages": [
         {
             "package": "doctrine/common",
@@ -12,12 +12,12 @@
         {
             "package": "fate/silex-extensions",
             "version": "dev-master",
-            "source-reference": "03add1c3ca0d2b75561900c5c94e56f777bf8777"
+            "source-reference": "28cb98b52656f58f43264bd3d168f4875c76af81"
         },
         {
             "package": "kriswallsmith/assetic",
-            "version": "1.0.x-dev",
-            "source-reference": "14505a5dea4c8fbf3513b70608ba585d5235ee8b"
+            "version": "dev-master",
+            "source-reference": "eb3b5eb732e5f172d5aa12dea0af36b7989c18b3"
         },
         {
             "package": "monolog/monolog",
@@ -27,12 +27,12 @@
         {
             "package": "pimple/pimple",
             "version": "dev-master",
-            "source-reference": "a687126f3d49c576eb33568d57e4d46a35c45cb2"
+            "source-reference": "4e5fc6a6d58a7d9ad1d1974726edc360d28b70ab"
         },
         {
             "package": "silex/silex",
             "version": "dev-master",
-            "source-reference": "183743a576d60e6a20777ba743d54ff2a6d5be9d"
+            "source-reference": "c3fd34646a91279b7da716746a7cc9db93da8202"
         },
         {
             "package": "symfony/browser-kit",
